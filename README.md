@@ -13,6 +13,7 @@
         - Title & Description
         - Movie Suggestions
             - MovieLists * N
+            
 -CineMind
     - Search Bar
     - Movie Suggestions
