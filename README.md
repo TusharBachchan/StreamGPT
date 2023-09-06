@@ -20,4 +20,6 @@
     - Movie Suggestions
       - MovieLists \* N
 
--CineMind - Search Bar - Movie Suggestions
+- CineMind 
+    - Search Bar 
+    - Movie Suggestions
